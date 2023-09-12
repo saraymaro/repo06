@@ -3,4 +3,6 @@ Clonamos el repositorio creado en github mediane git clone y una vez abierto en 
 >![Alt text](1.png)
 
 En la siguiente imagen observamos que hemos hecho algunos commits.
+>![Alt text](2.png)
 
+Hacemos un último commit.
