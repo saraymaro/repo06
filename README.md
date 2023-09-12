@@ -20,4 +20,8 @@ Visualizamos desde git log "alog".
 Visualizamos desde plugin VSC.
 >![Alt text](8.png)
 
+# Ejercicio 6
+
+Eecutamos el siguiente comando para poner un "alias". La próxima vez que utilicemos "git adog" ya funcionará, como podemos ver en la imagen.
+>![Alt text](9.png)
 
